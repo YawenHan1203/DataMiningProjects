@@ -1,2 +1,2 @@
-# Data-Mining-Projects
+# DataMiningProjects
 EDA, Classification, Clustering, Data Cleaning
